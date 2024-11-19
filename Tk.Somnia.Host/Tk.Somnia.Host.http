@@ -1,0 +1,6 @@
+@Tk.Somnia.Host_HostAddress = http://localhost:5164
+
+GET {{Tk.Somnia.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
